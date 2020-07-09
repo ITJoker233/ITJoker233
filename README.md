@@ -11,4 +11,4 @@
 ## ✍️外包服务
 
 #### 价格`300￥`起步,需要服务，请联系我。
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ITJoker233.ITJoker233)
+![访问量](https://visitor-badge.glitch.me/badge?page_id=ITJoker233.ITJoker233)
