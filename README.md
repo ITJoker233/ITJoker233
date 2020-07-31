@@ -7,6 +7,8 @@
 
 > 我的Blog:https://blog.itjoker.cn
 
+![ITJoker's github stats](https://github-readme-stats.vercel.app/api?username=ITJoker233&show_icons=true)
+
 ## 📬 联系邮箱   
 ### ```aUBpdGpva2VyLmNu```(base64)
 
@@ -20,5 +22,3 @@
 
 ### 需要服务，请使用邮箱联系我。
 <a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=mfDZ8O3z9vL867f69w" style="text-decoration:none;"><img src="https://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
-
-![ITJoker's github stats](https://github-readme-stats.vercel.app/api?username=ITJoker233&show_icons=true)
