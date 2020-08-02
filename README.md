@@ -9,6 +9,12 @@
 
 ![ITJoker's github stats](https://github-readme-stats.vercel.app/api?username=ITJoker233&show_icons=true)
 
+![ITJoker's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ITJoker233&show_icons=true)
+
+<!--
+![ITJoker's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ITJoker233&show_icons=true&layout=compact)
+-->
+ 
 ## 📬 联系邮箱   
 ### ```aUBpdGpva2VyLmNu```(base64)
 
