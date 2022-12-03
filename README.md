@@ -33,3 +33,5 @@
 ![ITJoker's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ITJoker233&show_icons=true&layout=compact)
 ![ITJoker's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ITJoker233&show_icons=true&layout=compact)
 -->
+
+![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake.svg)
